@@ -1,2 +1,6 @@
 # cardencryptdecrypt
 here we are encrypting a card number using xor gate and one key which is string in this case etc...
+here we are using card number which is 16 digit and encyptong using xor gate
+we gonna use chr and ord fuction to get ascii charatcer of the string
+so you can write any key it should be 16(its length)
+an example of encryption you can encrypt any number by increasing or decreasing its length of the key etc....
